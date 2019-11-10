@@ -17,3 +17,9 @@ fun masterfun2 (a:Int){
     println(a)
 
 }
+
+fun mastermasterfun (b:Int){
+
+    println("$b - B")
+
+}

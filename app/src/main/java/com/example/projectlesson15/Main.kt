@@ -52,3 +52,10 @@ fun Fun5 (a:Int){
     println("a: $a")
 
 }
+
+
+fun Fun6 (a:Int){
+
+    println("a: $a")
+
+}

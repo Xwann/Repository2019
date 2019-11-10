@@ -27,3 +27,9 @@ fun mastermasterfun (b:Int){
 fun funFeature2 (F:String){
     val F2 = "Future"
 }
+
+
+fun funFeautureFeature2 (F:String){
+    var F2 = "Future"
+    F2 += F
+}

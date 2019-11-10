@@ -33,3 +33,8 @@ fun funFeautureFeature2 (F:String){
     var F2 = "Future"
     F2 += F
 }
+
+fun funFeautureFeatureThree (F:String){
+    var F2 = "Future"
+    F2 += F
+}

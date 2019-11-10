@@ -5,3 +5,10 @@ fun Newfun (a:Int){
     println(a)
 
 }
+
+
+fun Fun2 (a:Int){
+
+    println("a: $a")
+
+}

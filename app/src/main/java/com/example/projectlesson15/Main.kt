@@ -19,3 +19,10 @@ fun Fun3 (a:Int){
     println("a: $a")
 
 }
+
+
+fun Fun4 (a:Int){
+
+    println("a: $a")
+
+}

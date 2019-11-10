@@ -24,6 +24,42 @@ fun mastermasterfun (b:Int){
 
 }
 
+
+fun Fun2 (a:Int){
+
+    println("a: $a")
+
+}
+
+
+fun Fun3 (a:Int){
+
+    println("a: $a")
+
+}
+
+
+fun Fun4 (a:Int){
+
+    println("a: $a")
+
+}
+
+
+
+fun Fun5 (a:Int){
+
+    println("a: $a")
+
+}
+
+
+fun Fun6 (a:Int){
+
+    println("a: $a")
+
+}
+
 fun funFeature2 (F:String){
     val F2 = "Future"
 }

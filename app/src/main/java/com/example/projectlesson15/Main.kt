@@ -23,3 +23,7 @@ fun mastermasterfun (b:Int){
     println("$b - B")
 
 }
+
+fun funFeature2 (F:String){
+    val F2 = "Future"
+}
